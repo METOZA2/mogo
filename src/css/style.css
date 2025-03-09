@@ -36,7 +36,10 @@ body {
   font-size: 30px;
   font-weight: 700;
 }
-
+.nav-list {
+  display: flex;
+  gap: 55px;
+}
 .nav-link {
   color: var(--colorTextTertiary);
 }
